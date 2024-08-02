@@ -46,28 +46,47 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
-  
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
-  <code><img height="50" src="https://github.com/Ahmad-Hassaan/Ahmad-Hassaan/blob/main/images/flask.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:React-icon.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:React-icon.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/NestJS_Logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Api.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg"></code>
+  <code><img height="50" src="https://neon.tech/static/neon.png"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Prisma_Logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Supabase-logo-icon.png"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:MongoDB_Logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:MySQL.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Microsoft_SQL_Server_logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Netlify_logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Heroku_logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Google_Cloud_Logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:DigitalOcean_logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Stripe_Logo,_revised_2016.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:PayPal.svg"></code>
+  <code><img height="50" src="https://paddle.com/img/logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Oauth_logo.svg"></code>
+  <code><img height="50" src="https://lucia-auth.com/logo.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Maps_logo_2020.svg"></code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Geolocation_logo.svg"></code>
+  <code><img height="50" src="https://commons.wikimedia.org/wiki/File:UI-UX_Design.svg"></code>
 </p>
 
 <em>
@@ -75,11 +94,11 @@
   ✔ Custom Software Development: Building custom-tailored software that aligns seamlessly with your business's specific needs. <br>
   ✔ Web App Development: Designing and creating web applications with a keen eye for enhancing user experience and interaction. <br>
   ✔ Mobile App Development: Creating dynamic and user-friendly mobile applications for various industries. <br>
-  ✔ API Development & Integration: Creating powerful APIs and integrating them with third-party solutions to ensure seamless interoperability. <br>
   ✔ Deployment & Cloud Services: Ensuring smooth deployment and efficient use of cloud services like AWS, GCP, and Digital Ocean. <br>
   ✔ ERP & CRM Solutions: Developing robust enterprise resource planning and customer relationship management software. <br>
   ✔ Healthcare Solutions: Crafting effective healthcare management systems to streamline operations. <br>
   ✔ Ongoing Support & Maintenance: Providing continuous support and maintenance post-deployment. <br>
+  ✔ API Development & Integration: Creating powerful APIs and integrating them with third-party solutions to ensure seamless interoperability. <br>
 </em>
 
   <hr>
