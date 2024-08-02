@@ -41,7 +41,7 @@
 ✔ API Integration | Payment Gateways | SaaS Platforms <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"><br>
 ✔ Deployment and Cloud Services <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"><br>
 ✔ Technical and Strategic Consulting <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"><br>
-✔ Ongoing Support and Maintenance <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br><br><br><br>
+✔ Ongoing Support and Maintenance <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
@@ -88,7 +88,7 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Geolocation_logo.svg"></code>
   <code><img height="50" src="https://commons.wikimedia.org/wiki/File:UI-UX_Design.svg"></code>
 </p>
-<em><br><br>
+<em><br>
   ✔ React.js, React Native, Next.js, Svelte, Sveltekit, Vue.js,Nuxt.js Angular.js <br>
   ✔ Node.js, Express.js, Nest.js <br>
   ✔ Django, GraphQL, REST APIs, Python <br>
@@ -99,7 +99,7 @@
   ✔ Stripe, Paypal, Paddle <br>
   ✔ Auth2.0, Lucia Auth, Google Map API, Geo Location <br>
   ✔ UI/UX design <br>
-</em><br><br><br><br>
+</em><br><br><br>
 
 
 <em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Specializations:***<br>
