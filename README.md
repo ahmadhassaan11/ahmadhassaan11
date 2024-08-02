@@ -5,12 +5,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ahmad Hassaan Ullah</h1>
 <h3 align="center">Full Stack Software Engineer | Frontend Developer | Technical Project Manager | Data Analyst</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmad-hassaan-ullah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ahmadhassaanullah/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ahmadhassaan11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@Ahmad_Hassaan" height="30" width="40" /></a>
-<a href="https://leetcode.com/ahmadhassaan11/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ahmadhassaan11/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
- <a href = "mailto: ahmadullah943@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmad-hassaan-ullah/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmadhassaanullah/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ahmadhassaan11" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/67/HackerRank_logo.png" alt="@Ahmad_Hassaan" height="30" width="40" /></a>
+<a href="https://leetcode.com/ahmadhassaan11/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ahmad_Hassaan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ahmadhassaan11/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
+<a href="mailto:ahmadullah943@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
 </p>
 </p>
 
