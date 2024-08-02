@@ -88,8 +88,21 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Geolocation_logo.svg"></code>
   <code><img height="50" src="https://commons.wikimedia.org/wiki/File:UI-UX_Design.svg"></code>
 </p>
+<em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Technologies & Tools I Use:***<br>
+  ✔ React.js, React Native, Next.js, Svelte, Sveltekit, Vue.js,Nuxt.js Angular.js <br>
+  ✔ Node.js, Express.js, Nest.js <br>
+  ✔ Django, GraphQL, REST APIs, Python <br>
+  ✔ JavaScript, PHP, Laravel, Electron <br>
+  ✔ Firebase, Neon DB, PostgreSQL, Prisma, Supabase <br>
+  ✔ MongoDB, MySQL, Redis, Microsoft SQL <br>
+  ✔ Flutter, Netlify, Heroku, AWS, GCP, Digital Ocean <br>
+  ✔ Stripe, Paypal, Paddle <br>
+  ✔ Auth2.0, Lucia Auth, Google Map API, Geo Location <br>
+  ✔ UI/UX design <br>
+</em>
 
-<em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Specializations:***
+
+<em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Specializations:***<br>
   ✔ Custom Software Development: Building custom-tailored software that aligns seamlessly with your business's specific needs. <br>
   ✔ Web App Development: Designing and creating web applications with a keen eye for enhancing user experience and interaction. <br>
   ✔ Mobile App Development: Creating dynamic and user-friendly mobile applications for various industries. <br>
