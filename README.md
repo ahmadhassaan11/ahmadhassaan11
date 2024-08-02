@@ -88,7 +88,7 @@
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Geolocation_logo.svg"></code>
   <code><img height="50" src="https://commons.wikimedia.org/wiki/File:UI-UX_Design.svg"></code>
 </p>
-<em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Technologies & Tools I Use:***<br>
+<em><br><br>
   ✔ React.js, React Native, Next.js, Svelte, Sveltekit, Vue.js,Nuxt.js Angular.js <br>
   ✔ Node.js, Express.js, Nest.js <br>
   ✔ Django, GraphQL, REST APIs, Python <br>
@@ -99,7 +99,7 @@
   ✔ Stripe, Paypal, Paddle <br>
   ✔ Auth2.0, Lucia Auth, Google Map API, Geo Location <br>
   ✔ UI/UX design <br>
-</em>
+</em><br><br><br><br>
 
 
 <em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Specializations:***<br>
