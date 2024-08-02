@@ -47,28 +47,41 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code><code> 
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
-  <code> <img height="50" src="https://github.com/Ahmad-Hassaan/Ahmad-Hassaan/blob/main/images/flask.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
-  <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
-"> </code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/dj.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/jp.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/docker-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/apache_hadoop-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mongodb-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/sqlite-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/postgresql-ar21.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+  <code><img height="50" src="https://github.com/Ahmad-Hassaan/Ahmad-Hassaan/blob/main/images/flask.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+</p>
+
+<em>
+  🏆 My Specializations:<br>
+  ✔ Custom Software Development: Building custom-tailored software that aligns seamlessly with your business's specific needs. <br>
+  ✔ Web App Development: Designing and creating web applications with a keen eye for enhancing user experience and interaction. <br>
+  ✔ Mobile App Development: Creating dynamic and user-friendly mobile applications for various industries. <br>
+  ✔ API Development & Integration: Creating powerful APIs and integrating them with third-party solutions to ensure seamless interoperability. <br>
+  ✔ Deployment & Cloud Services: Ensuring smooth deployment and efficient use of cloud services like AWS, GCP, and Digital Ocean. <br>
+  ✔ ERP & CRM Solutions: Developing robust enterprise resource planning and customer relationship management software. <br>
+  ✔ Healthcare Solutions: Crafting effective healthcare management systems to streamline operations. <br>
+  ✔ Ongoing Support & Maintenance: Providing continuous support and maintenance post-deployment. <br>
+</em>
+
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
