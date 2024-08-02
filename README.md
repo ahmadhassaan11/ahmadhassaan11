@@ -28,7 +28,7 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmad-Hassaan&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad-Hassaan" /> </p>
-<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFjbzUzOXV4bW85eG0xdHBtY3Z5d251MHgxdnZzaHNzaGIybnAzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVmczV2c3prd3IwMmZlbnkyMm9iMG5oeDd4M2l6dTJ6bGUxbm5zbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Services Include...***
 
@@ -89,8 +89,7 @@
   <code><img height="50" src="https://commons.wikimedia.org/wiki/File:UI-UX_Design.svg"></code>
 </p>
 
-<em>
-  🏆 My Specializations:<br>
+<em><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***My Specializations:***
   ✔ Custom Software Development: Building custom-tailored software that aligns seamlessly with your business's specific needs. <br>
   ✔ Web App Development: Designing and creating web applications with a keen eye for enhancing user experience and interaction. <br>
   ✔ Mobile App Development: Creating dynamic and user-friendly mobile applications for various industries. <br>
