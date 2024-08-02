@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmad-hassaan-ullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahmadhassaanullah/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
-  <a href="https://www.x.com/ahmadhassaan11/" target="blank"><img align="center" src="https://www.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_57642948.htm#query=x%20logo&position=0&from_view=keyword&track=ais_hybrid&uuid=51423310-ebe1-4075-ab51-9e228d57baf2" alt="aksia" height="30" width="40" /></a>
+  <a href="https://www.x.com/ahmadhassaan11/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="X" height="30" width="40" /></a>
 <a href="https://leetcode.com/ahmadhassaan11/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Ahmad_Hassaan" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ahmadhassaan11/profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="Ahmad_Hassaan" height="30" width="40" /></a>
 <a href="mailto:ahmadullah943@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40" /></a>
