@@ -51,7 +51,6 @@
   <code><img height="50" src="https://commons.wikimedia.org/wiki/File:React-icon.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg"></code>
   <code><img height="50" src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"></code>
@@ -153,3 +152,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
