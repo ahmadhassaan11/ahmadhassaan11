@@ -113,12 +113,11 @@
   ✔ API Development & Integration: Creating powerful APIs and integrating them with third-party solutions to ensure seamless interoperability. <br>
 </em>
 
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-Hassaan&show_icons=true&locale=en&layout=compact" alt="Ahmad-Hassaan" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Hassaan&show_icons=true&locale=en" alt="Ahmad-Hassaan" width="410" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <hr>
 
@@ -152,6 +151,3 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 </div>
 
 <hr>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
