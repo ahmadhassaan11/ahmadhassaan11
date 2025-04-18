@@ -3,7 +3,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ahmad Hassaan Ullah</h1>
-<h3 align="center">Full Stack Software Engineer | Frontend Developer | Technical Project Manager | Data Analyst</h3>
+<h3 align="center">Full Stack Software Engineer | AI & Deepseek Developer | Custom Software & Apps | Technical Project Manager | Data Analyst</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmad-hassaan-ullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LI" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ahmadhassaanullah/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="FB" height="30" width="40" /></a>
